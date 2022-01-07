@@ -1,7 +1,7 @@
 # mmd_dml
-Source Code for "Multi-Modal Deep Distance Metric Learning"
-# 
-- If you have used this source code, please also cite the following paper:
+# Source Code for "Multi-Modal Deep Distance Metric Learning"
+
+- If you have used this source code, please also cite the following [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NaYJz5kAAAAJ&alert_preview_top_rm=2&citation_for_view=NaYJz5kAAAAJ:qjMakFHDy7sC):
 
 @article{roostaiyan2017multi,
   title={Multi-modal deep distance metric learning},
